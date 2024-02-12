@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **CSS, SASS, JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
 - 📫 How to reach me **craig-moore22@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
