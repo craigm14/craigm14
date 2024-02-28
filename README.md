@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Craig</h1>
 <h3 align="center">A Web Content Publisher / Aspiring Developer from Glasgow</h3>
 
-- 🌱 I’m currently learning **CSS, SASS, JavaScript and React**
+- 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript and React**
 
 - 📫 How to reach me **craig-moore22@outlook.com**
 
