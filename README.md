@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, React**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [coming soon]
 
 - 📫 How to reach me **craig-moore22@outlook.com**
 
